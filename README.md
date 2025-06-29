@@ -1,16 +1,30 @@
-## Hi there 👋
 
-<!--
-**jeremiahongwenyi/jeremiahongwenyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Jeremiah!
 
-Here are some ideas to get you started:
+I'm a passionate **Frontend Developer** based in Kenya 🇰🇪, focused on building clean, responsive, and user-friendly web applications. I love turning ideas into digital experiences using modern technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+- **Languages**: HTML5, CSS3, JavaScript, TypeScript
+- **Frameworks & Libraries**: React, Angular, Vue (learning), Tailwind CSS, Bootstrap
+- **Tools & Platforms**: Git, GitHub, VS Code, Figma, Firebase, Vite
+- **State Management**: Redux, NgRx, Context API
+- **Testing**: Jest, Cypress
+- **Other**: REST APIs, Responsive Design, UI/UX Principles
+
+---
+
+
+## 📫 Let's Connect!
+
+- LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/jeremiahongwenyi)
+- Portfolio: https://jeremiah-ongwenyi-portfolio.vercel.app/
+
+---
+
+_“Code is like humor. When you have to explain it, it’s bad.” — Cory House_
+
+Thanks for visiting! 🙌
+
