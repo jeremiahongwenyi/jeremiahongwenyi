@@ -84,7 +84,6 @@ const Jeremiah = {
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -136,31 +135,30 @@ const Jeremiah = {
 
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Jasmine](https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=jasmine&logoColor=white)
 
 </details>
 
-<details open>
+<!-- <details open>
 <summary><b>🤖 AI & Machine Learning</b></summary>
 <br>
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-</details>
+</details> -->
 
 ---
 
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=makokhavictor&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=makokhavictor&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeremiahongwenyi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeremiahongwenyi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=makokhavictor&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FFA500&currStreakLabel=C9D1D9" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeremiahongwenyi&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FFA500&currStreakLabel=C9D1D9" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
@@ -172,7 +170,7 @@ const Jeremiah = {
 ### 🎯 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=makokhavictor&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeremiahongwenyi&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF" width="100%"/>
 </div>
 
 ---
@@ -183,35 +181,35 @@ const Jeremiah = {
   <tr>
     <td width="33%" align="center">
       <img src="https://img.icons8.com/fluency/96/000000/code.png" width="50"/><br>
-      <b>Clean Architecture</b><br>
-      Writing maintainable, scalable code that stands the test of time
+      <b>Clean & Scalable Code</b><br>
+      Writing maintainable, performant, and modular frontend code
     </td>
     <td width="33%" align="center">
-      <img src="https://img.icons8.com/fluency/96/000000/team.png" width="50"/><br>
-      <b>Team Leadership</b><br>
-      Mentoring developers and fostering collaborative environments
+    <img src="https://img.icons8.com/fluency/96/000000/team.png" width="50"/><br>
+      <b>UI/UX Excellence</b><br>
+      Building intuitive, responsive, and accessible web interfaces
     </td>
     <td width="33%" align="center">
-      <img src="https://img.icons8.com/fluency/96/000000/rocket.png" width="50"/><br>
-      <b>Rapid Delivery</b><br>
-      Implementing CI/CD pipelines for faster, reliable deployments
+      <img src="https://img.icons8.com/fluency/96/000000/lightning-bolt.png" width="50"/><br>
+      <b>Performance Optimization</b><br>
+      Ensuring fast, smooth, and efficient user experiences
     </td>
   </tr>
   <tr>
     <td width="33%" align="center">
       <img src="https://img.icons8.com/fluency/96/000000/web.png" width="50"/><br>
-      <b>Full Stack Mastery</b><br>
-      Seamlessly bridging frontend elegance with backend robustness
+      <b>Modern Frontend Frameworks</b><br>
+      Experienced in React, Next.js, Vue.js, Angular and component-driven development
     </td>
     <td width="33%" align="center">
-      <img src="https://img.icons8.com/fluency/96/000000/artificial-intelligence.png" width="50"/><br>
-      <b>Innovation</b><br>
-      Leveraging cutting-edge tech like AI/ML to solve real problems
+      <img src="https://img.icons8.com/fluency/96/000000/settings.png" width="50"/><br>
+      <b>State Management & APIs</b><br>
+      Efficient handling of app state and seamless API integration
     </td>
     <td width="33%" align="center">
       <img src="https://img.icons8.com/fluency/96/000000/business.png" width="50"/><br>
       <b>Business Impact</b><br>
-      Aligning technical solutions with business objectives
+      Translating frontend solutions into measurable value for users
     </td>
   </tr>
 </table>
@@ -224,14 +222,14 @@ const Jeremiah = {
 Industries:
   - E-commerce: Building scalable platforms handling millions of transactions
   - Finance: Developing secure, compliant fintech solutions
-  - Telecommunication: Creating robust systems for telecom operations
 
 Achievements:
-  - Led teams of 5-15 developers across multiple projects
-  - Architected and deployed 20+ production applications
-  - Reduced deployment time by 60% through CI/CD optimization
+  - Architected and deployed 10+ production applications
   - Improved application performance by 40% through code optimization
-  - Mentored 30+ junior developers to senior positions
+  - Developed a multitenant Sacco system for PostBank Uganda, boosting efficiency by 40% and profitability by 20%
+  - Implemented GitHub Actions CI/CD pipelines, cutting release time by 40% and reducing deployment errors by 25%
+  - Built 5 Vue.js miniapps in a superapp ecosystem  with JWT authentication for secure user sessions
+
 ```
 
 ---
