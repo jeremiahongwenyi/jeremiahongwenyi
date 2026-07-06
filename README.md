@@ -8,8 +8,7 @@
 
 </div>
 
-
-
+---
 
 <div align="center">
 
@@ -24,6 +23,9 @@
 </div>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+
+---
+
 
 ### 👨‍💻 About Me
 
@@ -89,27 +91,44 @@ const Jeremiah = {
 
 ---
 
-### 🎯 Current Focus
+### 🚀 What I'm Building
 
 <table>
   <tr>
     <td width="50%">
-      
-#### 🔭 Working On
-      
-**[Homify Furniture](https://homify-furniture.vercel.app/)** – A modern web-based e-commerce platform for a furniture store in Kenya, allowing customers to browse ready-made furniture, request custom pieces using reference images, and communicate directly with the seller through WhatsApp.
+
+#### 🔨 Currently Building
+
+**Homify** — A production-oriented full stack commerce platform for custom furniture businesses.
+
+Current areas of development include:
+
+- RESTful APIs with Next.js Route Handlers
+- PostgreSQL database design with Prisma ORM
+- Secure authentication using Better Auth
+- Custom order workflows and business logic
+- Scalable application architecture
+- Docker-ready deployment
 
 </td>
-    <td width="50%">
-      
-#### 🌱 Learning & Growing
-      
-- **Backend Development** with Next.js
-- **API Design & Integration**
-- **PostgreSQL & Database Architecture**
-- **Full-Stack Application Development**
+
+<td width="50%">
+
+#### 🌱 Currently Exploring
+
+I'm continuously expanding my software engineering toolkit by learning and building with modern technologies.
+
+Current areas of focus include:
+
+- AWS Cloud Architecture
+- System Design
+- Scalable Backend Architecture
+- Database Design & Optimization
+- Docker & Containerization
+- Production Engineering Best Practices
 
 </td>
+
   </tr>
 </table>
 
@@ -118,48 +137,110 @@ const Jeremiah = {
 ### 💼 Tech Stack & Expertise
 
 <details open>
-<summary><b>🎨 Frontend Development</b></summary>
+<summary><b>🎨 Frontend</b></summary>
+
 <br>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 </details>
 
 <details open>
-<summary><b>⚙️ Languages </b></summary>
+<summary><b>📦 State Management</b></summary>
+
 <br>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![NgRx](https://img.shields.io/badge/NgRx-DD0031?style=for-the-badge&logo=ngrx&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge)
+
+</details>
+
+<details open>
+<summary><b>⚙️ Backend</b></summary>
+
+<br>
+
+![Next.js Route Handlers](https://img.shields.io/badge/Next.js_Route_Handlers-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge)
+![Better Auth](https://img.shields.io/badge/Better_Auth-111827?style=for-the-badge)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge)
+
+</details>
+<!--  -->
+
+<details open>
+<summary><b>🗄️ Database</b></summary>
+
+<br>
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma ORM](https://img.shields.io/badge/Prisma_ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>☁️ Cloud & DevOps</b></summary>
+
+<br>
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🧪 Testing & Code Quality</b></summary>
+
+<br>
+
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Jasmine](https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=jasmine&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>💻 Languages</b></summary>
+
+<br>
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 </details>
 
 <details open>
-<summary><b>🗄️ State Management </b></summary>
+<summary><b>🔗 API Technologies</b></summary>
+
 <br>
 
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![NgRx](https://img.shields.io/badge/NgRx-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=zustand&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT_Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 </details>
 
-<!--  -->
-
 <details open>
-<summary><b>🧪 Testing & Quality</b></summary>
+<summary><b>🛠️ Developer Tools</b></summary>
+
 <br>
 
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-![Jasmine](https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=jasmine&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </details>
 
