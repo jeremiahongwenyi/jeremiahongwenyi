@@ -279,65 +279,73 @@ Current areas of focus include:
   <tr>
     <td width="33%" align="center">
       <img src="https://img.icons8.com/fluency/96/000000/code.png" width="50"/><br>
-      <b>Clean & Scalable Code</b><br>
-      Writing maintainable, performant, and modular frontend code
+      <b>Clean & Scalable Software</b><br>
+      Building maintainable, well-structured applications with a focus on long-term scalability and code quality.
     </td>
     <td width="33%" align="center">
-    <img src="https://img.icons8.com/fluency/96/000000/team.png" width="50"/><br>
-      <b>UI/UX Excellence</b><br>
-      Building intuitive, responsive, and accessible web interfaces
+      <img src="https://img.icons8.com/fluency/96/000000/team.png" width="50"/><br>
+      <b>User-Centered Solutions</b><br>
+      Designing intuitive digital experiences that solve real business and user problems—not just technical challenges.
     </td>
     <td width="33%" align="center">
       <img src="https://img.icons8.com/fluency/96/000000/lightning-bolt.png" width="50"/><br>
-      <b>Performance Optimization</b><br>
-      Ensuring fast, smooth, and efficient user experiences
+      <b>Performance & Reliability</b><br>
+      Developing secure, responsive, and production-ready applications with performance and maintainability in mind.
     </td>
   </tr>
   <tr>
     <td width="33%" align="center">
       <img src="https://img.icons8.com/fluency/96/000000/web.png" width="50"/><br>
-      <b>Modern Frontend Frameworks</b><br>
-      Experienced in React, Next.js, Vue.js, Angular and component-driven development
+      <b>Full Stack Development</b><br>
+      Building end-to-end solutions across the frontend, backend, APIs, authentication, and relational databases.
     </td>
     <td width="33%" align="center">
       <img src="https://img.icons8.com/fluency/96/000000/settings.png" width="50"/><br>
-      <b>State Management & APIs</b><br>
-      Efficient handling of app state and seamless API integration
+      <b>Modern Engineering Practices</b><br>
+      Applying clean architecture, RESTful APIs, version control, CI/CD, and collaborative development workflows.
     </td>
     <td width="33%" align="center">
       <img src="https://img.icons8.com/fluency/96/000000/business.png" width="50"/><br>
       <b>Business Impact</b><br>
-      Translating frontend solutions into measurable value for users
+      Delivering software that creates measurable value by aligning technical solutions with business objectives.
     </td>
   </tr>
 </table>
-
 ---
 
 ### 🏆 Experience Highlights
 
 ```yaml
 Industries:
-  - E-commerce: Building scalable platforms handling millions of transactions
-  - Finance: Developing secure, compliant fintech solutions
+  - Banking & Fintech: Building secure, scalable web applications and digital banking solutions
+  - E-commerce: Developing full-stack commerce platforms and customer-centric digital experiences
 
-Achievements:
-  - Architected and deployed 10+ production applications
-  - Improved application performance by 40% through code optimization
-  - Developed a multitenant Sacco system for PostBank Uganda, boosting efficiency by 40% and profitability by 20%
-  - Implemented GitHub Actions CI/CD pipelines, cutting release time by 40% and reducing deployment errors by 25%
-  - Built 5 Vue.js miniapps in a superapp ecosystem  with JWT authentication for secure user sessions
+Professional Impact:
+  - Built and delivered 10+ production web applications across banking, fintech, and enterprise platforms
+  - Developed 5 Vue.js mini applications within the Equity SuperApp ecosystem using secure JWT authentication
+  - Engineered enterprise financial solutions for a multi-tenant SACCO platform serving PostBank Uganda
+  - Integrated RESTful APIs, third-party SDKs, and modern frontend architectures to deliver scalable applications
+  - Automated CI/CD pipelines with GitHub Actions, reducing deployment time by 40%
 
+Current Focus:
+  - Building Homify, a production-oriented full-stack e-commerce platform with Next.js, PostgreSQL, Prisma, and Better Auth
+  - Expanding expertise in backend engineering, system design, and cloud architecture
+  - Preparing for the AWS Certified Solutions Architect – Associate certification
+
+Engineering Philosophy:
+  - Build software that solves real problems
+  - Prioritize maintainability over unnecessary complexity
+  - Design with users first and scalability in mind
+  - Never stop learning and improving
 ```
-
 ---
 
 ### 📫 Let's Connect!
 
 <div align="center">
-  
+
 [![Email](https://img.shields.io/badge/Email-jerrmiahongwenyi@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jerrmiahongwenyi@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-cvjobmatcher.com-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://cvjobmatcher.com/)
+[![Portfolio](jeremiahongwenyi.vercel.app?style=for-the-badge&logo=google-chrome&logoColor=white)](https://cvjobmatcher.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeremiah-ongwenyi/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jeremiahongwenyi)
 
@@ -346,15 +354,15 @@ Achievements:
 ---
 
 <div align="center">
-  
-### 💬 "Ask me about React, Angular, Vue, Next.js - Always happy to help!"
+
+### 💬 Ask me about Full Stack Development, Next.js, React, Vue.js, Angular, REST APIs, PostgreSQL, or Software Architecture — I'm always happy to connect and talk tech!
 
 </div>
 
 ---
 
 <div align="center">
-  
+
 ### 📈 Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jeremiahongwenyi&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
@@ -368,9 +376,11 @@ Achievements:
 </div>
 
 <div align="center">
-  
-### ⭐ Star my repositories if you find them useful!
 
-**"Code is like humor. When you have to explain it, it's bad." – Cory House**
+### ⭐ Thanks for visiting!
+
+If you enjoy my work or find any of my projects helpful, feel free to ⭐ a repository or connect with me.
+
+**"Software has never been about writing code—it's about solving real problems."**
 
 </div>
