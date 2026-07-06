@@ -1,6 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jeremiah%20Ongwenyi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=Software+Engineer;Full+Stack+Development;Building+Scalable+Web+Applications)](https://git.io/typing-svg)
+
 </div>
+
 
 <div align="center">
   
