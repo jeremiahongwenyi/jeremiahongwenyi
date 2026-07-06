@@ -345,7 +345,45 @@ Engineering Philosophy:
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-jerrmiahongwenyi@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jerrmiahongwenyi@gmail.com)
-[![Portfolio](jeremiahongwenyi.vercel.app?style=for-the-badge&logo=google-chrome&logoColor=white)](https://cvjobmatcher.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-cvjobmatcher.com-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jeremiahongwenyi.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeremiah-ongwenyi/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jeremiahongwenyi)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Ask me about Full Stack Development, Next.js, React, Vue.js, Angular, REST APIs, PostgreSQL, or Software Architecture — I'm always happy to connect and talk tech!
+
+</div>
+
+---
+
+<div align="center">
+
+### 📈 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=jeremiahongwenyi&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+</div>
+
+<div align="center">
+
+### ⭐ Thanks for visiting!
+
+If you enjoy my work or find any of my projects helpful, feel free to ⭐ a repository or connect with me.
+
+**"Software has never been about writing code—it's about solving real problems."**
+
+</div>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeremiah-ongwenyi/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jeremiahongwenyi)
 
