@@ -1,29 +1,27 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jeremiah%20Ongwenyi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+</div>
+
+<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=Software+Engineer;Full+Stack+Development;Building+Scalable+Web+Applications)](https://git.io/typing-svg)
 
 </div>
 
 
-<div align="center">
-  
- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Frontend+Engineer;3%2B+Years+of+Excellence)](https://git.io/typing-svg)
-  
-</div>
+
 
 <div align="center">
-  
-  ```ascii
-  ╔═══════════════════════════════════════════════════════════╗
-  ║  🚀 Building Modern and Responsive User Interfaces    ║
-  ║  💡 Creating Fast, Accessible & Scalable Frontend Apps   ║
-  ║  🎯 Turning Designs into Interactive Web Experiences                ║
-  ╚═══════════════════════════════════════════════════════════╝
-  ```
-  
-</div>
 
----
+```ascii
+╔════════════════════════════════════════════════════════════════════╗
+║ 🚀 Building Secure & Scalable Full Stack Web Applications         ║
+║ ⚙️ Designing APIs, Databases & Modern User Experiences            ║
+║ 💡 Solving Real Business Problems Through Software Engineering    ║
+╚════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
@@ -31,23 +29,63 @@
 
 ```typescript
 const Jeremiah = {
-    location: "Nairobi, Kenya 🇰🇪",
-    role: "Frontend Engineer",
-    experience: "3+ years",
-    currentFocus: "Backend Development with Next.js",
-    currentProject: "Homify Furniture - An online furniture store",
-    specialties: [
-        "Building Responsive & Accessible User Interfaces",
-        "React & Next.js Application Architecture",
-        "State Management & API Integration",
-        "Performance Optimization & UX Enhancement"
+  location: "Nairobi, Kenya 🇰🇪",
+
+  role: "Software Engineer",
+
+  experience: "3+ years",
+
+  currentProject: "Homify — A production-oriented full stack commerce platform",
+
+  currentlyLearning: "AWS Certified Solutions Architect – Associate",
+
+  specialties: [
+    "Full Stack Web Development",
+    "REST API Design",
+    "Authentication & Authorization",
+    "Relational Database Design",
+    "Scalable Application Architecture"
+  ],
+
+  technologies: {
+    frontend: [
+      "React",
+      "Next.js",
+      "Vue.js",
+      "Angular",
+      "TypeScript"
     ],
-    industries: ["E-commerce", "Finance"],
-    passion: "Turning ideas into intuitive digital experiences that people love to use ✨"
+
+    backend: [
+      "Next.js Route Handlers",
+      "REST APIs",
+      "Better Auth",
+      "Prisma",
+      "Zod"
+    ],
+
+    database: [
+      "PostgreSQL"
+    ],
+
+    tools: [
+      "Docker",
+      "Git",
+      "GitHub Actions"
+    ]
+  },
+
+  industries: [
+    "Banking",
+    "Fintech",
+    "E-commerce"
+  ],
+
+  philosophy:
+    "Software has never been about writing code—it's about solving meaningful business and user problems."
 };
 ```
 
-<br clear="right"/>
 
 ---
 
